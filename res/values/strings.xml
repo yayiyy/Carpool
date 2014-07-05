@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Carpool</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="introduction">Time saving and Safe drive with co-workers!</string>
+    <string name="start">Start</string>
+    
+    <string name="workingIn">I\'m working in</string>
+    <string name="next">Next</string>
+
+    <string-array name="company_array">
+        <item>Amazon</item>
+        <item>Microsoft</item>
+    </string-array>
+</resources>
